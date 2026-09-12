@@ -23,7 +23,7 @@ This repository includes a comprehensive set of files covering different stages 
 * **`nti.ipynb` (Jupyter Notebook):** The full Python script using the Pandas library for advanced data cleaning, fixing data shifting errors (like moving mistakenly placed minutes to the duration column), handling missing values (`NaN`), and parsing string dates into structured year, month, and day columns.
 * **`Netflix (1).xlsx` (Excel Dataset):** The structured and clean Excel sheet used as the base source for our dashboards.
 * **`final project.sql` (SQL Script):** Database queries used for filtering, grouping, and answering deep analytical questions from the dataset.
-* **`prog.pbix` & `prog_powerbi1.pbix` (Power BI):** Interactive Business Intelligence dashboards visualizing key metrics such as top producing countries, trend analysis over the years, and distribution of content types and ratings.
+* **`PROJECT TEAM.pbix` (Power BI):** Interactive Business Intelligence dashboards visualizing key metrics such as top producing countries, trend analysis over the years, and distribution of content types and ratings.
 * **`PROJECT PRESENTATION 1.pptx` (PowerPoint):** The final presentation slides used during our discussion with Instructor Esraa El-Iraqi.
 
 ---
